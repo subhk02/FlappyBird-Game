@@ -9,7 +9,10 @@ A simple Flappy Bird clone made with Python and Pygame.
    ```sh
    git clone https://github.com/subhk02/FlappyBird-Game.git
    cd FlappyBird-Game
-3. Run this command to play the Game:
+3. Requirement:
    ```sh
-   chmod +x run.sh
-   ./run.sh
+   pip install -r requirements.txt
+4. Run this command to play the Game:
+   ```sh
+   chmod +x flappy-bird.sh
+   ./flappy-bird.sh

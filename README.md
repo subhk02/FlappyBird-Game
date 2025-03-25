@@ -7,7 +7,7 @@ A simple Flappy Bird clone made with Python and Pygame.
 1. Install Python (if not installed)
 2. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/FlappyBird-Game.git
+   git clone https://github.com/subhk02/FlappyBird-Game.git
    cd FlappyBird-Game
 3. Run this command to play the Game:
    ```sh

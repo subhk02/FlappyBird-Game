@@ -24,7 +24,7 @@ A simple and fun Flappy Bird clone built with Python and Pygame.
 5. **Create and activate a virtual environment**:
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows use: venv\Scripts\activate
+   source venv/bin/activate
 
 
 6. **Install dependencies**:

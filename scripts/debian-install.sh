@@ -8,7 +8,7 @@ sudo apt install --noconfirm python3 python3-venv python3-pip
 cd ~/Documents
 git clone https://github.com/subhk02/FlappyBird-Game.git
 cd FlappyBird-Game
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 chmod +x flappy-bird.sh

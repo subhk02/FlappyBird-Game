@@ -10,6 +10,6 @@ git clone https://github.com/subhk02/FlappyBird-Game.git
 cd FlappyBird-Game
 python3 -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
+pip install pygame
 chmod +x dflappy-bird.sh
 ./dflappy-bird.sh

@@ -5,7 +5,7 @@ if [[ $EUID -ne 0 ]]; then
 fi
 sudo pacman -S --noconfirm python python-virtualenv python-pip
 
-cd ~/Downloads
+cd ~/Documents
 git clone https://github.com/subhk02/FlappyBird-Game.git
 cd FlappyBird-Game
 python -m venv venv

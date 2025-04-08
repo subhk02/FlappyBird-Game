@@ -12,7 +12,7 @@ Skip the manual steps! Use one of the following one-liner install scripts based 
 sh <(curl -L https://raw.githubusercontent.com/subhk02/FlappyBird-Game/main/scripts/debian-install.sh)
 ```
 
-### 🐧 For Arch Linux users (Manjaro, EndeavourOS, etc.)
+### 🐧 For Arch Linux users
 
 ```sh
 sh <(curl -l https://raw.githubusercontent.com/subhk02/FlappyBird-Game/main/scripts/arch-install.sh)

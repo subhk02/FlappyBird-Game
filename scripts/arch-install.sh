@@ -1,6 +1,6 @@
 #!/bin/bash
 cd ~/Documents
-pacman install python python-venv python-pip
+pacman -S python python-venv python-pip
 git clone https://github.com/subhk02/FlappyBird-Game.git
 cd FlappyBird-Game
 python -m venv venv

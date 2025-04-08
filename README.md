@@ -7,21 +7,21 @@ A simple and fun Flappy Bird clone built with Python and Pygame.
 Skip the manual steps! Use one of the following one-liner install scripts based on your OS:
 
 ### 🧩 For Debian-based users
-#### Bash Users
+#### 🐚 Bash Users
 ```sh
 bash <(curl -L https://raw.githubusercontent.com/subhk02/FlappyBird-Game/main/scripts/debian-install.sh)
 ```
-#### FIsh Users
+#### 🐟 FIsh Users
 ```sh
 curl -L https://raw.githubusercontent.com/subhk02/FlappyBird-Game/main/scripts/debian-install.sh | sh
 ```
 
 ### 🐧 For Arch Linux users
-#### Bash Users
+#### 🐚 Bash Users
 ```sh
 sh <(curl -l https://raw.githubusercontent.com/subhk02/FlappyBird-Game/main/scripts/arch-install.sh)
 ```
-#### FIsh Users
+#### 🐟 FIsh Users
 ```sh
 curl -L https://raw.githubusercontent.com/subhk02/FlappyBird-Game/main/scripts/arch-install.sh | sh
 ```
